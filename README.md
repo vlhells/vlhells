@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @vlhells
-- 👀 I’m interested in All.
-- 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
+<img src="header.png" alt="header">
 
-<!---
-vlhells/vlhells is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My main programmin language is C#. I'm also using Python.
+- I'm study in Mendeleev University of Chemical Technology of Russia on Nanoengineering.
+
+- 🌱 I’m currently learning ASP.NET Core (+MVC), PostgreSQL, DB, TA 
+- 📫 How to reach me: https://t.me/VladislavGashenko
