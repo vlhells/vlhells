@@ -1,8 +1,9 @@
 <img src="header.png" alt="hello-banner">
 
 My main programmin language is C#. Love this language and its' ecosystem (MS SQL Server, T-SQL, .NET, ASP.NET Core, Entity Framework Core, LINQ, etc)  
+I also like Python, Django, FastApi, etc.  
 I'm also using other technologies (look at skills below)  
-I also actively worked w/ cellular automatas, SOLID, OOP, unit-tests, some patterns, Swagger, REST, Windows Forms (+MVP), code-review, refactor, SignalR.  
+I also actively worked w/ cellular automatas, SOLID, OOP, unit-tests, some patterns, Swagger, REST, Windows Forms (+MVP), code-review, refactor, WPF.  
     
 - I'm study at Mendeleev University of Chemical Technology of Russia on Nanoengineering.
 - Writin scientific articles and publishing.
