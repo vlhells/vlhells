@@ -1,6 +1,6 @@
 <img src="header.png" alt="hello-banner">
 
-My main programmin language is C#. Love this language and its' ecosystem (MS SQL Server, T-SQL, .NET, ASP.NET Core, Entity Framework Core, LINQ, etc)  
+My main programmin language is C#. Love this language and its' ecosystem (MS SQL Server, T-SQL, .NET, MAUI, ASP.NET Core, Entity Framework Core, LINQ, etc)  
 
 Like the concept of Clean Architecture and use in some projects. Also usin mediator, AutoMapping and FluentValidation.
 
